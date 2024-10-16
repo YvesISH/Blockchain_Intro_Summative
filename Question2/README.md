@@ -16,9 +16,9 @@
 
 ### Prerequisites
 
-##### GCC compiler
-##### OpenSSL development libraries
-##### Linux/Unix environment (For Windows users, WSL is recommended)
+###### GCC compiler
+###### OpenSSL development libraries
+###### Linux/Unix environment (For Windows users, WSL is recommended)
 
 ### Installation
 
@@ -31,7 +31,7 @@
 #### For Fedora
 ###### sudo dnf install openssl-devel
 
-# For CentOS/RHEL
+#### For CentOS/RHEL
 ###### sudo yum install openssl-devel
 
 #### Clone or download the source files:
